@@ -14,10 +14,7 @@
 	<name>Ciclo3</name>
 	<description>Proyecto para el ciclo 3 Mision TIC 2022</description>
 	<properties>
-		<java.version>18</java.version>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
+		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
